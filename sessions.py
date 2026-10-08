@@ -1,4 +1,4 @@
-]633;E;{ git show HEAD~1:sessions.py | head -9\x3b cat sessions.py\x3b } > tmp.py && mv tmp.py sessions.py;8890b3dd-6dbd-432d-ada3-377ff636caf9]633;C"""
+"""
 StudySync -- Session Log (Ticket 2, Tinker 2B).
 
 TICKET: the click counter below doesn't survive a Streamlit rerun. The
